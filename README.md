@@ -1,6 +1,3 @@
-# Sample-Repository
-How Repositories should be Setup
-
 # Student Name
 Code Repository for `Student Name`
 
